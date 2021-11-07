@@ -3,8 +3,8 @@
 ## Requirements
 ### python
 ### python packages
-- pandas as pd
-- numpy as np
+- pandas
+- numpy
 - sklearn
 - geocoder
 - googlemaps
